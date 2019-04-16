@@ -1,10 +1,10 @@
-**                                 Apache License**<br>
+                                 Apache License<br>
                            Version 2.0, January 2004<br>
                         http://www.apache.org/licenses/<br>
 <br>
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION<br>
 <br>
-**   1. Definitions.**<br>
+   1. Definitions.<br>
 <br>
       "License" shall mean the terms and conditions for use, reproduction,<br>
       and distribution as defined by Sections 1 through 9 of this document.<br>
@@ -63,14 +63,14 @@
       on behalf of whom a Contribution has been received by Licensor and<br>
       subsequently incorporated within the Work.<br>
 <br>
-**   2. Grant of Copyright License.** Subject to the terms and conditions of<br>
+   2. Grant of Copyright License. Subject to the terms and conditions of<br>
       this License, each Contributor hereby grants to You a perpetual,<br>
       worldwide, non-exclusive, no-charge, royalty-free, irrevocable<br>
       copyright license to reproduce, prepare Derivative Works of,<br>
       publicly display, publicly perform, sublicense, and distribute the<br>
       Work and such Derivative Works in Source or Object form.<br>
 <br>
-**   3. Grant of Patent License.** Subject to the terms and conditions of<br>
+   3. Grant of Patent License. Subject to the terms and conditions of<br>
       this License, each Contributor hereby grants to You a perpetual,<br>
       worldwide, non-exclusive, no-charge, royalty-free, irrevocable<br>
       (except as stated in this section) patent license to make, have made,<br>
@@ -86,7 +86,7 @@
       granted to You under this License for that Work shall terminate<br>
       as of the date such litigation is filed.<br>
 <br>
-**   4. Redistribution.** You may reproduce and distribute copies of the<br>
+   4. Redistribution. You may reproduce and distribute copies of the<br>
       Work or Derivative Works thereof in any medium, with or without<br>
       modifications, and in Source or Object form, provided that You<br>
       meet the following conditions:<br>
@@ -127,7 +127,7 @@
       reproduction, and distribution of the Work otherwise complies with<br>
       the conditions stated in this License.<br>
 <br>
-**   5. Submission of Contributions.** Unless You explicitly state otherwise,<br>
+   5. Submission of Contributions. Unless You explicitly state otherwise,<br>
       any Contribution intentionally submitted for inclusion in the Work<br>
       by You to the Licensor shall be under the terms and conditions of<br>
       this License, without any additional terms or conditions.<br>
@@ -135,12 +135,12 @@
       the terms of any separate license agreement you may have executed<br>
       with Licensor regarding such Contributions.<br>
 <br>
-**   6. Trademarks.** This License does not grant permission to use the trade<br>
+   6. Trademarks. This License does not grant permission to use the trade<br>
       names, trademarks, service marks, or product names of the Licensor,<br>
       except as required for reasonable and customary use in describing the<br>
       origin of the Work and reproducing the content of the NOTICE file.<br>
 <br>
-**   7. Disclaimer of Warranty.** Unless required by applicable law or<br>
+   7. Disclaimer of Warranty. Unless required by applicable law or<br>
       agreed to in writing, Licensor provides the Work (and each<br>
       Contributor provides its Contributions) on an "AS IS" BASIS,<br>
       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or<br>
@@ -150,7 +150,7 @@
       appropriateness of using or redistributing the Work and assume any<br>
       risks associated with Your exercise of permissions under this License.<br>
 <br>
-**   8. Limitation of Liability.** In no event and under no legal theory,<br>
+   8. Limitation of Liability. In no event and under no legal theory,<br>
       whether in tort (including negligence), contract, or otherwise,<br>
       unless required by applicable law (such as deliberate and grossly<br>
       negligent acts) or agreed to in writing, shall any Contributor be<br>
@@ -162,7 +162,7 @@
       other commercial damages or losses), even if such Contributor<br>
       has been advised of the possibility of such damages.<br>
 <br>
-**   9. Accepting Warranty or Additional Liability.** While redistributing<br>
+   9. Accepting Warranty or Additional Liability. While redistributing<br>
       the Work or Derivative Works thereof, You may choose to offer,<br>
       and charge a fee for, acceptance of support, warranty, indemnity,<br>
       or other liability obligations and/or rights consistent with this<br>
