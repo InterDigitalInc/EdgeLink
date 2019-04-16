@@ -14,5 +14,5 @@ EdgeLink requires the presence of nodes linked in a mesh network, a mesh control
 * [Start orchestrator](orchestrator/orchestrator_exe.md)
 
 ## Licensing
-[InterDigital Labs Public License](LICENSE.md)
-
+Mesh controller and orchestrator are published under [InterDigital Labs Public License](LICENSE.md)
+ONOS controller is published under [Apache 2.0 License](LICENSE-ONOS.md)
