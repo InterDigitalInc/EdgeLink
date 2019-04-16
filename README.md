@@ -5,8 +5,8 @@ InterDigital’s EdgeLink (mmW Mesh Transport) is a wireless 5G solution that ca
 EdgeLink requires the presence of nodes linked in a mesh network, a mesh controller (based on ONOS), and an orchestrator.
 
 ## Getting started
-* Clone the EdgeLink repo
-  `git clone https://github.com/InterDigitalInc/EdgeLink.git'
+* Clone the EdgeLink repo<br>
+  `git clone https://github.com/InterDigitalInc/EdgeLink.git'<br>
 * [Setup runtime environment(Ubuntu/Java)](setenv.md)
 * [Install and Configure mesh controller](ONOS/onos_install.md)
 * [Install and Configure orchestrator](orchestrator/orchestrator_install.md)
