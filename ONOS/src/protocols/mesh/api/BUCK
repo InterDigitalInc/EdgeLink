@@ -1,0 +1,9 @@
+COMPILE_DEPS = [
+    '//lib:CORE_DEPS',
+    '//lib:openflowj', 
+    '//apps/meshmanager:onos-apps-meshmanager',
+]
+
+osgi_jar_with_tests (
+    deps = COMPILE_DEPS,
+)

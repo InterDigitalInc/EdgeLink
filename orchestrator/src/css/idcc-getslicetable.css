@@ -1,0 +1,42 @@
+/* =============================================================================
+**
+**                     Copyright (c) 2019
+**                 InterDigital Communications, Inc.
+**
+**                      All rights reserved.
+**
+**  Licensed under the terms and conditions provided in InterDigital Labs Public
+**  License v.1 (the “License”). You may not use this file except in compliance 
+**  with the License. Unless required by applicable law or agreed to in writing,
+**  software distributed under the License is distributed on as “AS IS” BASIS,
+**  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See
+**  the License for the specific language governing permissions and limitations
+**  under the License.
+**
+** =============================================================================
+*/
+
+/* we dont want these rules to be included in every page */
+
+/* for sla get config table having checkbox */
+td:first-child {
+    position: absolute;
+    width: var(--st-table-chkbox-width);
+}
+
+/* bcos of above th rule with padding, first column is not in center */
+td.st-sno-col {
+    padding-left: var(--st-table-chkbox-width) !important;
+}
+
+/* checkboxes */
+input {
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* stop wrapping of this text */
+.no-records-found {
+    float: left;
+    white-space: nowrap;
+    margin-bottom: 30px;
+}

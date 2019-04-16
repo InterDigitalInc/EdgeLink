@@ -1,0 +1,241 @@
+providers/mesh/src/main/java/org/onosproject/provider/mesh/MeshProviderImpl.java:**                 InterDigital Communications, LLC
+providers/mesh/src/main/java/org/onosproject/provider/mesh/MeshProviderImpl.java:**  information of InterDigital Communications, LLC, and is made available
+providers/mesh/src/main/java/org/onosproject/provider/mesh/package-info.java:**                 InterDigital Communications, LLC
+providers/mesh/src/main/java/org/onosproject/provider/mesh/package-info.java:**  information of InterDigital Communications, LLC, and is made available
+providers/mesh/pom.xml:  ~                 InterDigital Communications, LLC
+providers/mesh/pom.xml:  ~  information of InterDigital Communications, LLC, and is made available
+providers/mesh/pom.xml:        <onos.app.origin>InterDigital</onos.app.origin>
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/NbiUiMessageHandler.java:**                 InterDigital Communications, LLC
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/NbiUiMessageHandler.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/NbiWebResource.java:**                 InterDigital Communications, LLC
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/NbiWebResource.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/NbiComponent.java:**                 InterDigital Communications, LLC
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/NbiComponent.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/package-info.java:**                 InterDigital Communications, LLC
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/package-info.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/NbiWebApplication.java:**                 InterDigital Communications, LLC
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/NbiWebApplication.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/NbiUiComponent.java:**                 InterDigital Communications, LLC
+apps/meshnbi/src/main/java/org/onosproject/meshnbi/NbiUiComponent.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshnbi/pom.xml:  ~                 InterDigital Communications, LLC
+apps/meshnbi/pom.xml:  ~  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshDB.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshDB.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/AccessNode.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/AccessNode.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshLink.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshLink.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/NeighborNode.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/NeighborNode.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/NbiNotificationListener.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/NbiNotificationListener.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshAlert.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshAlert.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshNode.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshNode.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/SerializedMeshMessage.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/SerializedMeshMessage.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/VlanInfo.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/VlanInfo.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/NbiSession.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/NbiSession.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshSector.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshSector.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshRoutingManager.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshRoutingManager.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshManager.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshManager.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/MeshProviderRegistry.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/MeshProviderRegistry.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/MeshProviderService.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/MeshProviderService.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/MeshProvider.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/MeshProvider.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/package-info.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/package-info.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/LinkReport.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/LinkReport.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetSliceRsp.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetSliceRsp.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/StatsConfig.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/StatsConfig.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/LinkStats.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/LinkStats.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICreateSliceRsp.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICreateSliceRsp.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCReset.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCReset.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshDeviceRemoved.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshDeviceRemoved.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIReadStatsReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIReadStatsReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIMessage.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIMessage.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshSBIMessage.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshSBIMessage.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICustomerRegistrationRsp.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICustomerRegistrationRsp.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/LinkReportInfo.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/LinkReportInfo.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshDeviceAdded.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshDeviceAdded.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshSBIMessageType.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshSBIMessageType.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetMaxAvailableBWRsp.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetMaxAvailableBWRsp.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshMessage.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshMessage.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/BufferReport.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/BufferReport.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/AlertsReport.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/AlertsReport.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/AlertStateE.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/AlertStateE.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/ResultCode.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/ResultCode.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCConnect.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCConnect.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/Sla.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/Sla.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIResponse.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIResponse.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICustomerRegistrationReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICustomerRegistrationReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICustomerDeregistrationReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICustomerDeregistrationReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/BwReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/BwReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshConstants.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshConstants.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/StatsReport.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/StatsReport.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshSBIMessageFactory.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshSBIMessageFactory.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetMaxAvailableBWReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetMaxAvailableBWReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIRequest.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIRequest.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/PriorityConfig.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/PriorityConfig.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/SliceInfo.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/SliceInfo.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/NeighborList.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/NeighborList.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/package-info.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/package-info.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetNodeInfoRsp.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetNodeInfoRsp.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshDeviceEvent.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshDeviceEvent.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/NodeInfo.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/NodeInfo.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCReportInd.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCReportInd.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetSliceReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetSliceReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/AlertTypeE.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/AlertTypeE.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetAlertsReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetAlertsReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/CapabilityInfo.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/CapabilityInfo.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIDeleteSliceRsp.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIDeleteSliceRsp.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetNodeInfoReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetNodeInfoReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetAlertsRsp.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIGetAlertsRsp.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIModifySliceRsp.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIModifySliceRsp.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/TlvIe.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/TlvIe.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/OpenFlowMessage.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/OpenFlowMessage.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIReadStatsRsp.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIReadStatsRsp.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICustomerDeregistrationRsp.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICustomerDeregistrationRsp.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCConfigSetup.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCConfigSetup.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/ResultCodeE.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/ResultCodeE.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICreateSliceReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBICreateSliceReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIModifySliceReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIModifySliceReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCConfigConfirm.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCConfigConfirm.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIDeleteSliceReq.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNBIDeleteSliceReq.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCHello.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/api/message/MeshNCHello.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshFwdTblEntry.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshFwdTblEntry.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/CustomerSession.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/CustomerSession.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshListener.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshListener.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshEvent.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshEvent.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/NbiNotificationData.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/NbiNotificationData.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshSliceManager.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshSliceManager.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshService.java:**                 InterDigital Communications, LLC
+apps/meshmanager/src/main/java/org/onosproject/meshmanager/MeshService.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshmanager/pom.xml:  ~                 InterDigital Communications, LLC
+apps/meshmanager/pom.xml:  ~  information of InterDigital Communications, LLC, and is made available
+apps/meshcli/src/main/java/org/onosproject/meshcli/MeshDeviceCommand.java:**                 InterDigital Communications, LLC
+apps/meshcli/src/main/java/org/onosproject/meshcli/MeshDeviceCommand.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshcli/src/main/java/org/onosproject/meshcli/MeshTopologyCommand.java:**                 InterDigital Communications, LLC
+apps/meshcli/src/main/java/org/onosproject/meshcli/MeshTopologyCommand.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshcli/src/main/java/org/onosproject/meshcli/AppUiComponent.java:**                 InterDigital Communications, LLC
+apps/meshcli/src/main/java/org/onosproject/meshcli/AppUiComponent.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshcli/src/main/java/org/onosproject/meshcli/AppComponent.java:**                 InterDigital Communications, LLC
+apps/meshcli/src/main/java/org/onosproject/meshcli/AppComponent.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshcli/src/main/java/org/onosproject/meshcli/package-info.java:**                 InterDigital Communications, LLC
+apps/meshcli/src/main/java/org/onosproject/meshcli/package-info.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshcli/src/main/java/org/onosproject/meshcli/MeshLinkCommand.java:**                 InterDigital Communications, LLC
+apps/meshcli/src/main/java/org/onosproject/meshcli/MeshLinkCommand.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshcli/src/main/java/org/onosproject/meshcli/AppCommand.java:**                 InterDigital Communications, LLC
+apps/meshcli/src/main/java/org/onosproject/meshcli/AppCommand.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshcli/src/main/java/org/onosproject/meshcli/AppUiMessageHandler.java:**                 InterDigital Communications, LLC
+apps/meshcli/src/main/java/org/onosproject/meshcli/AppUiMessageHandler.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshcli/src/main/java/org/onosproject/meshcli/MeshDbCommand.java:**                 InterDigital Communications, LLC
+apps/meshcli/src/main/java/org/onosproject/meshcli/MeshDbCommand.java:**  information of InterDigital Communications, LLC, and is made available
+apps/meshcli/pom.xml:  ~                 InterDigital Communications, LLC
+apps/meshcli/pom.xml:  ~  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshSwitchAgent.java:**                 InterDigital Communications, LLC
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshSwitchAgent.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshSwitchImpl.java:**                 InterDigital Communications, LLC
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshSwitchImpl.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshChannelHandler.java:**                 InterDigital Communications, LLC
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshChannelHandler.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/InternalMeshSwitch.java:**                 InterDigital Communications, LLC
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/InternalMeshSwitch.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshMessageDecoder.java:**                 InterDigital Communications, LLC
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshMessageDecoder.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshControllerImpl.java:**                 InterDigital Communications, LLC
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshControllerImpl.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/package-info.java:**                 InterDigital Communications, LLC
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/package-info.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshPipelineFactory.java:**                 InterDigital Communications, LLC
+protocols/mesh/ctl/src/main/java/org/onosproject/mesh/controller/impl/MeshPipelineFactory.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/ctl/pom.xml:  ~                 InterDigital Communications, LLC
+protocols/mesh/ctl/pom.xml:  ~  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/MeshDpid.java:**                 InterDigital Communications, LLC
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/MeshDpid.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/MeshController.java:**                 InterDigital Communications, LLC
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/MeshController.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/package-info.java:**                 InterDigital Communications, LLC
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/package-info.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/MeshListener.java:**                 InterDigital Communications, LLC
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/MeshListener.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/SwitchStateException.java:**                 InterDigital Communications, LLC
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/SwitchStateException.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/MeshSwitch.java:**                 InterDigital Communications, LLC
+protocols/mesh/api/src/main/java/org/onosproject/mesh/controller/MeshSwitch.java:**  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/api/pom.xml:  ~                 InterDigital Communications, LLC
+protocols/mesh/api/pom.xml:  ~  information of InterDigital Communications, LLC, and is made available
+protocols/mesh/pom.xml:  ~                 InterDigital Communications, LLC
+protocols/mesh/pom.xml:  ~  information of InterDigital Communications, LLC, and is made available

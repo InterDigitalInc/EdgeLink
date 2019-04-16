@@ -1,0 +1,13 @@
+BUNDLES = [
+    '//apps/openstacknetworking/api:onos-apps-openstacknetworking-api',
+    '//apps/openstacknetworking/web:onos-apps-openstacknetworking-web',
+    '//apps/openstacknetworking/cli:onos-apps-openstacknetworking-cli',
+]
+
+onos_app (
+  title = 'OpenStack Networking App',
+  category = 'Utility',
+  url = 'http://onosproject.org',
+  included_bundles = BUNDLES,
+  required_apps = [ 'org.onosproject.openstackrouting', 'org.onosproject.openstackswitching' ]
+)

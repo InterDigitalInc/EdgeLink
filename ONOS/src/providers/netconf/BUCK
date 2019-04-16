@@ -1,0 +1,22 @@
+BUNDLES = [
+    '//providers/netconf/device:onos-providers-netconf-device',
+    '//providers/netconf/alarm:onos-providers-netconf-alarm',
+    '//protocols/netconf/api:onos-protocols-netconf-api',
+    '//protocols/netconf/ctl:onos-protocols-netconf-ctl',
+]
+
+EXCLUDED_BUNDLES = [
+    '//lib:ganymed-ssh2',
+]
+
+onos_app (
+    title = 'NETCONF Provider',
+    category = 'Provider',
+    url = 'http://onosproject.org',
+    included_bundles = BUNDLES,
+    excluded_bundles = EXCLUDED_BUNDLES,
+    description = 'NETCONF protocol southbound providers.',
+    required_apps = [ 'org.onosproject.faultmanagement'],
+)
+
+

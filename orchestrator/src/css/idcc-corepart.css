@@ -1,0 +1,264 @@
+/* =============================================================================
+**
+**                     Copyright (c) 2019
+**                 InterDigital Communications, Inc.
+**
+**                      All rights reserved.
+**
+**  Licensed under the terms and conditions provided in InterDigital Labs Public
+**  License v.1 (the “License”). You may not use this file except in compliance 
+**  with the License. Unless required by applicable law or agreed to in writing,
+**  software distributed under the License is distributed on as “AS IS” BASIS,
+**  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See
+**  the License for the specific language governing permissions and limitations
+**  under the License.
+**
+** =============================================================================
+*/
+
+.st-container-right-border {
+    border-right: solid 5px white; /* this is required to control page horizontal scrollbar */
+    margin-right: 0px;
+}
+
+#st-sidebar {
+    position: fixed; /* no more scrolling problems */
+    background: var(--st-color-dgrey);
+    padding-top: 50px; /* so that header doesnt overlap the sidebar, and sidebar first row is inline with page-title*/
+}
+
+.st-menu-empty:hover {
+    background-color: var(--st-color-dgrey) !important;
+    color: var(--st-color-greyish) !important;
+}
+
+/* bottom line in sidebar menu */
+.st-bottom-line {
+    border-bottom: 1px solid grey;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+
+#st-pg-title {
+    font-size: 200%;
+    color: var(--st-color-lblue);
+    margin-right: 1%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+}
+
+#js-right-corepart {
+    margin-top: 5%;
+    height: 60%;
+}
+
+/* keep sidebar height correct */
+#js-middle-row , .st-container-right-border, #st-sidebar {
+    height: 100%;
+}
+
+/*overriding bootstrap's form-label class */
+.st-form-label {
+    font-size: 110%;
+    padding: 7px;
+    background: var(--st-color-greyish);
+    color: var(--st-color-lblue);
+}
+
+.st-form-value {
+    font-size: 110%;
+    color: var(--st-color-dgrey);
+    padding-left: 5%;
+}
+
+.st-input-mac {
+    font-size: 110%;
+    color: var(--st-color-dgrey);
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    border-radius: 4px; /* rounded corners*/
+    /* from form-control class */
+    border: 1px solid #ccc;
+}
+
+.st-form-horizontal, .st-form-group {
+    margin: 0 !important;
+}
+
+.st-stats-chkbox {
+    min-height: 0px; /* overriding bootstrap's checkbox class*/
+    font-weight: bold;
+}
+
+#js-register-btn{
+    font-size: 110%;
+    font-weight: bold;
+}
+
+#js-responsebar-row {
+    margin: 4% 0% 4% 0%; /*t r b l*/
+    padding: 5px;
+    background-color: var(--st-color-lblue);
+    border-radius: 50px; /* rounded corners*/
+}
+
+.st-responsebar-label {
+    text-align: left;
+    font-size: 100%;
+}
+
+.st-responsebar-value {
+    font-size: 100%;
+    color: var(--st-color-lblue);
+    background-color: white;
+}
+
+#js-result-text, #js-http-err {
+    border-radius: 5px;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    font-size: 150%;
+    overflow: auto;
+    margin-bottom: 1%;
+    margin-top: -1%;
+}
+
+#js-result-text {
+    color: green;
+    border: 1px solid var(--st-color-lblue);
+}
+
+#st-gwtbw-disclaimer {
+    margin-top: 1%;
+    font-style: italic;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#js-http-err {
+    color: red;
+    border: 1px solid var(--st-color-dgrey);
+}
+
+#st-slice-panel-row {
+    margin-bottom: -3%; /* negate responsebar margin-top */
+}
+
+.st-slice-panel-heading {
+    font-size: 120%;
+    font-weight: bold;
+    text-align: center;
+    background-color: var(--st-color-lblue) !important;
+    color: white !important;
+}
+
+.st-slice-panel-body {
+    height: 142px;
+}
+
+.st-slice-panel-body>table {
+    border-bottom: 1px solid #ddd;
+}
+
+.st-slice-btn-grp {
+    width: 100%;
+    color: white;
+    background-color: var(--st-color-lblue);
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#st-slice-create-tbl {
+    margin-top: 2%;
+    padding-left: 0;
+}
+
+#st-manybtn-lastbtn {
+    margin-top: 10%;
+}
+
+#st-manybtn-lastbtn:hover, .st-slice-btn-grp>button:hover {
+    background-color: var(--st-color-dgrey);
+    color: white;
+}
+
+#st-alert-tbl, #st-conf-slice-tbl {
+    margin: 0;
+}
+
+.st-slice-tbl, .st-alerts-tbl, .st-stats-tbl, .st-node-info-tbl {
+    margin: -3% 1% 1% 1%; /*t r b l*/
+    border-radius: 5px;
+}
+
+#st-slice-delete-tbl {
+    margin: 1%;
+}
+
+.st-search-placeholder {
+    padding: 0 0 0 4px; /*t r b l*/
+}
+
+.st-search-icon {
+    padding: 7px !important; /*t r b l*/
+}
+
+.st-card-panel {
+    margin-top: 25%;
+    margin-bottom: 25%;
+    border: 1px solid var(--st-color-lblue);
+    border-radius: 5px;
+}
+
+.st-card-panel:hover {
+    text-decoration: none;
+}
+
+.st-card-heading {
+    background-color: var(--st-color-lblue) !important;
+    color: white !important;
+    font-size: 180%;
+    text-align: center;
+}
+
+.st-card-body {
+    font-size: 200%;
+    color: var(--st-color-lblue);
+    text-align: center;
+    padding: 15%;
+}
+
+.st-inputfields-shiftup {
+    margin-top: -3% !important;
+}
+
+.st-responsebar-shiftup {
+    margin-top: 1% !important;
+}
+
+div.dt-buttons {
+    position: absolute;
+    margin: 0 0 0 45%; /*t r b l*/
+    padding: 0.5% 0 0 0; /*t r b l*/
+} 
+
+.st-slice-create-priority {
+    vertical-align: bottom !important;
+}
+
+#st-stats-unit {
+    font-size: 120%;
+    padding: 10px 0 0 0; /*t r b l*/
+    margin: 0 0 0 -10px; /*t r b l*/
+}
+
+.st-getbw-width {
+    width: var(--st-getbw-width);
+}
+
+.st-nodeid-dropdown-width {
+    min-width: calc(var(--st-getbw-width) - 30px);
+}

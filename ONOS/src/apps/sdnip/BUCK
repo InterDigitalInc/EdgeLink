@@ -1,0 +1,34 @@
+COMPILE_DEPS = [
+    '//lib:CORE_DEPS',
+    '//incubator/api:onos-incubator-api',
+    '//apps/routing-api:onos-apps-routing-api',
+    '//apps/intentsync:onos-apps-intentsync',
+    '//lib:org.apache.karaf.shell.console',
+    '//cli:onos-cli'
+]
+
+BUNDLES = [
+    '//apps/sdnip:onos-apps-sdnip',
+    '//apps/routing-api:onos-apps-routing-api',
+    '//apps/routing/common:onos-apps-routing-common',
+]
+
+TEST_DEPS = [
+    '//lib:TEST_ADAPTERS',
+    '//incubator/api:onos-incubator-api-tests',
+    '//apps/routing-api:onos-apps-routing-api-tests',
+]
+
+osgi_jar_with_tests (
+    deps = COMPILE_DEPS,
+    test_deps = TEST_DEPS,
+)
+
+onos_app (
+  title = 'SDN-IP App',
+  category = 'Utility',
+  url = 'http://onosproject.org',
+  included_bundles = BUNDLES,
+  description = 'SDN-IP peering application',
+  required_apps = [ 'org.onosproject.intentsynchronizer' ],
+)

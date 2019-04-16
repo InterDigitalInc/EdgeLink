@@ -1,0 +1,40 @@
+/* =============================================================================
+**
+**                     Copyright (c) 2019
+**                 InterDigital Communications, Inc.
+**
+**                      All rights reserved.
+**
+**  Licensed under the terms and conditions provided in InterDigital Labs Public
+**  License v.1 (the “License”). You may not use this file except in compliance 
+**  with the License. Unless required by applicable law or agreed to in writing,
+**  software distributed under the License is distributed on as “AS IS” BASIS,
+**  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See
+**  the License for the specific language governing permissions and limitations
+**  under the License.
+**
+** =============================================================================
+*/
+
+:root {
+    --st-color-lblue: #38ACEC; /*light blue color*/
+    --st-color-dgrey: #273037;  /*dark grey color*/
+    --st-color-greyish: #eef;
+    --st-table-chkbox-width: 40px;
+    --st-getbw-width: 200px;
+}
+
+.st-text-ellipsis {
+    text-overflow:  ellipsis;
+    overflow: hidden;
+}
+
+.st-white-on-color {
+    background: var(--st-color-dgrey);
+    color: white;
+}
+
+.st-color-on-white {
+    background: white;
+    color: var(--st-color-dgrey);
+}

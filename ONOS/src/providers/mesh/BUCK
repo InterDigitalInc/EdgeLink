@@ -1,0 +1,30 @@
+COMPILE_DEPS = [
+    '//lib:CORE_DEPS',
+    '//protocols/mesh/api:onos-protocols-mesh-api',
+    '//protocols/mesh/ctl:onos-protocols-mesh-ctl',
+    '//apps/meshmanager:onos-apps-meshmanager',
+]
+
+BUNDLES = [
+    '//providers/mesh:onos-providers-mesh',
+    '//protocols/mesh/api:onos-protocols-mesh-api',
+    '//protocols/mesh/ctl:onos-protocols-mesh-ctl',
+]
+
+APPS = [
+    'org.onosproject.meshmanager',
+]
+
+osgi_jar_with_tests (
+    deps = COMPILE_DEPS,
+)
+
+onos_app (
+    app_name = 'org.onosproject.mesh',
+    title = 'Mesh Provider',
+    category = 'Provider',
+    url = 'http://onosproject.org',
+    description = 'Mesh protocol southbound provider.',
+    included_bundles = BUNDLES,
+    required_apps = APPS,
+)

@@ -1,0 +1,34 @@
+COMPILE_DEPS = [
+    '//lib:CORE_DEPS',
+    '//lib:org.apache.karaf.shell.console',
+    '//apps/meshmanager:onos-apps-meshmanager',
+    '//lib:javax.ws.rs-api',
+    '//lib:jetty-websocket',
+    '//utils/rest:onlab-rest',
+    '//core/api:onos-api',
+    '//utils/osgi:onlab-osgi',
+    '//lib:org.apache.felix.scr.annotations',
+
+]
+
+TEST_DEPS = [
+    '//lib:TEST_REST',
+]
+
+osgi_jar_with_tests (
+    deps = COMPILE_DEPS,
+    test_deps = TEST_DEPS,
+    web_context = 'meshnbi',
+    api_title = 'MESH NBI',
+    api_version = '1.0',
+    api_description = 'ONOS OSGi bundle archetype',
+    api_package = 'meshnbi',
+
+)
+
+onos_app (
+    title = 'Mesh NBI',
+    catagory = 'Mesh NBI',
+    description = 'Mesh NBI',
+    url = 'http://onosproject.org'
+)

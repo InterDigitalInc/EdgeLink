@@ -1,0 +1,30 @@
+COMPILE_DEPS = [
+    '//lib:CORE_DEPS',
+    '//lib:COMPILE',
+    '//lib:org.apache.karaf.shell.console',
+    '//cli:onos-cli',
+    '//lib:openflowj',
+    '//protocols/openflow/api:onos-protocols-openflow-api',
+    '//core/api:onos-api',
+    '//core/common:onos-core-common',
+    '//lib:org.osgi.compendium',
+    '//lib:org.apache.felix.scr.annotations',
+    '//utils/misc:onlab-misc',
+    '//apps/meshmanager:onos-apps-meshmanager'
+]
+
+osgi_jar_with_tests (
+    deps = COMPILE_DEPS,
+)
+APPS = [
+    'org.onosproject.mesh',
+    'org.onosproject.meshmanager',
+]
+
+onos_app (
+    title = 'Mesh CLI',
+    category = 'Mesh CLI',
+    url = 'http://onosproject.org',
+    description = 'Mesh CLI',
+    required_apps = APPS,
+)

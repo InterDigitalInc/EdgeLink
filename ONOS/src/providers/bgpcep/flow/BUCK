@@ -1,0 +1,12 @@
+COMPILE_DEPS = [
+  '//lib:CORE_DEPS',
+  '//lib:org.osgi.compendium',
+  '//protocols/bgp/api:onos-protocols-bgp-api',
+  '//incubator/api:onos-incubator-api',
+  '//protocols/pcep/api:onos-protocols-pcep-api',
+  '//protocols/pcep/pcepio:onos-protocols-pcep-pcepio',
+]
+
+osgi_jar_with_tests(
+    deps = COMPILE_DEPS,
+)

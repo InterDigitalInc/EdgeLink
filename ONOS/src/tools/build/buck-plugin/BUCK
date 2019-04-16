@@ -1,0 +1,37 @@
+# Comment the remote_jar out for local buck development
+remote_jar (
+  name = 'buck-api',
+  out = 'buck.jar',
+  url = 'https://oss.sonatype.org/content/repositories/snapshots/org/onosproject/buck-api/0.1-SNAPSHOT/buck-api-0.1-20161113.012708-6.jar',
+  sha1 = 'da823563b03964eafc9ff76cd721b9253ae473a1',
+  visibility = [],
+)
+
+# Uncomment the prebuilt_jar and copy buck-api to lib/buck.jar for local buck development
+# prebuilt_jar (
+#  name = 'buck-api',
+#  binary_jar = 'lib/buck.jar'
+# )
+
+COMPILE = [
+  '//lib:qdox',
+  '//lib:guava',
+  '//lib:bndlib',
+  '//lib:org.apache.felix.scr.bnd'
+]
+
+java_library(
+  name = 'lib',
+  srcs = glob(['src/main/java/**/*.java']),
+  resources = glob(['src/main/resources/**/*']),
+  resources_root = 'src/main/resources',
+  deps = COMPILE,
+  provided_deps = [':buck-api'],
+  visibility = [],
+)
+
+java_binary(
+  name = 'onos',
+  deps = [':lib'],
+  visibility = ['PUBLIC'],
+)

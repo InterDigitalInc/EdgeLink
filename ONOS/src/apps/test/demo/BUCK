@@ -1,0 +1,24 @@
+COMPILE_DEPS = [
+    '//lib:CORE_DEPS',
+    '//lib:org.apache.karaf.shell.console',
+    '//cli:onos-cli',
+    '//utils/rest:onlab-rest',
+    '//lib:javax.ws.rs-api',
+    '//core/store/serializers:onos-core-serializers',
+]
+
+osgi_jar_with_tests (
+    deps = COMPILE_DEPS,
+    web_context = '/onos/demo',
+    api_title = 'Flow Throughput Demo App',
+    api_version = '1.0',
+    api_description = 'REST API for Demo App',
+    api_package = 'org.onosproject.demo',
+)
+
+onos_app (
+    title = 'Flow Throughput Demo App',
+    category = 'Test',
+    url = 'http://onosproject.org',
+    description = 'APIs for interacting with the flow throughput test application.',
+)

@@ -1,0 +1,13 @@
+BUNDLES = [
+  '//apps/tetopology/api:onos-apps-tetopology-api',
+  '//apps/tetopology/app:onos-apps-tetopology-app',
+]
+
+onos_app (
+    app_name = 'org.onosproject.tetopology',
+    title = 'TE Topology Core App',
+    category = 'ACTN',
+    url = 'http://onosproject.org',
+    description = 'Application to create and manage hierarchical TE topologies.',
+    included_bundles = BUNDLES,
+)
