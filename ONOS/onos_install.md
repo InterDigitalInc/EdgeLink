@@ -35,6 +35,6 @@ cp scripts/setup_routes.sh /etc/init.d/
 
 Run the script to setup the routes
 ```
-$> ./scripts/setup_routes.sh
+./scripts/setup_routes.sh
 ```
 
