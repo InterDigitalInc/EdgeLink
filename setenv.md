@@ -21,7 +21,7 @@ Version we use:
 
 ## Java
 
-Java Version we use:
+Version we use:
 - Java8
 
 How we do it:
@@ -29,3 +29,15 @@ How we do it:
 Run a script to automatically install the oracle java version 8.
 ```
 ./scripts/setup_java.sh
+```
+
+## Curl
+
+Version we use:
+- 7.47.0
+
+How we do it:
+
+Install latest curl version.
+```
+sudo apt-get install curl
