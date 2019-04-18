@@ -5,6 +5,7 @@
 EdgeLink requires the following pre-requisites
 - [Ubuntu](#ubuntu)
 - [Java](#Java)
+- [Curl](#Curl)
 
 
 ## Ubuntu
