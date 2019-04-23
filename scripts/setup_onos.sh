@@ -23,14 +23,16 @@ tar xvzf onos.tar.gz
 sed -i "s/^SYS_APPS=.*/SYS_APPS=drivers,meshmanager,meshcli,meshnbi,mesh,openflow-base/" /opt/onos/onos-1.9.0/bin/onos-service
 
 #starting the service for the first time to create the config files out of the binaries
-/opt/onos/onos-1.9.0/bin/onos-service start &
+echo -e "\e[31mWait while the system is being set up for ONOS, that should take about 30 seconds. \e[33mDO NOT FORCE EXIT."
+/opt/onos/onos-1.9.0/bin/onos-service start > output.txt &
 #waiting for everything to be created and up
-sleep 10
+sleep 30
 /opt/onos/onos-1.9.0/bin/onos-service stop
+rm output.txt
 cd $BASEDIR
 echo $BASEDIR
 cp ../ONOS/config/FlowRuleManager.config /opt/onos/onos-1.9.0/apache-karaf-3.0.8/data/cache/bundle6/data/config/org/onosproject/net/flow/impl/FlowRuleManager.config
 cp ../ONOS/config/MeshManager.config /opt/onos/onos-1.9.0/apache-karaf-3.0.8/data/cache/bundle6/data/config/org/onosproject/meshmanager/MeshManager.config
 
 cd $BASEDIR
-
+reset
