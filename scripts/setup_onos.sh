@@ -25,8 +25,23 @@ sed -i "s/^SYS_APPS=.*/SYS_APPS=drivers,meshmanager,meshcli,meshnbi,mesh,openflo
 #starting the service for the first time to create the config files out of the binaries
 echo -e "\e[31mWait while the system is being set up for ONOS, that should take about 30 seconds. \e[33mDO NOT FORCE EXIT."
 /opt/onos/onos-1.9.0/bin/onos-service start > output.txt &
+
 #waiting for everything to be created and up
-sleep 30
+
+#wait for first file to exist
+while !(test -f /opt/onos/onos-1.9.0/apache-karaf-3.0.8/data/cache/bundle6/data/config/org/onosproject/net/flow/impl/FlowRuleManager.config)
+do
+  echo -ne "."
+  sleep 1
+done
+
+#wait for second file to exist
+while !(test -f /opt/onos/onos-1.9.0/apache-karaf-3.0.8/data/cache/bundle6/data/config/org/onosproject/meshmanager/MeshManager.config)
+do
+  echo -ne ".."
+  sleep 1
+done
+
 /opt/onos/onos-1.9.0/bin/onos-service stop
 rm output.txt
 cd $BASEDIR
