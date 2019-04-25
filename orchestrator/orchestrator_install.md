@@ -20,7 +20,7 @@ Run a script to install the tomcat server and the orchestrator.
 ```
 
 The script downloads the tomcat tar file, install and configure it to use the port **8888**.
-We are using an archived version of Tomcat, but if the version is not available anymore, check for a newer one from:
+We are using an archived version of Tomcat, but if the version is not available anymore, check for a newer one from:<br>
 [https://tomcat.apache.org/download-80.cgi](https://tomcat.apache.org/download-80.cgi)
 
 ## Orchestrator
