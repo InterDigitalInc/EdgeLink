@@ -21,7 +21,7 @@ Run a script to build, install ONOS, install the mesh controller apps, configure
 ## Nodes reachability 
 
 Routing tables mush be modified to ensure nodes reachability (GW and NonGW)<br>
-Manually update the file setup_routes.sh with relevant IP addresses<br>
+Manually update the file setup_routes.sh with relevant IP addresses and ethernet port name<br>
 >*route add -host \<IP of GW node\> dev \<interface to reach the GW\>*<br>
 >*route add -net \<IP subnet of NonGW nodes\>\/\<NonGW network mask\> dev <interface to reach the GW> gw \<IP of the GW node\>*
 ```
