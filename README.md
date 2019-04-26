@@ -7,6 +7,7 @@ EdgeLink requires the presence of nodes linked in a mesh network, a mesh control
 ## Getting started
 * Clone the EdgeLink repo<br>
   `git clone https://github.com/InterDigitalInc/EdgeLink.git`<br>
+  This step would create the *EdgeLink* directory and all the installation steps assumes this directory as the base directory.<br>
 * [Setup runtime environment(Ubuntu/Java)](setenv.md)
 * [Install and Configure mesh controller](ONOS/onos_install.md)
 * [Install and Configure orchestrator](orchestrator/orchestrator_install.md)
