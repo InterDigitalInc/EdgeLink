@@ -26,6 +26,7 @@ The mesh controller needs an IP address that could reach the mesh network (on th
 
 Routing tables mush be modified to ensure nodes reachability (GW and NonGW)<br>
 Manually update the file setup_routes.sh with relevant IP addresses and ethernet port name<br>
+Default settings in the script are as follow: \<IP of GW node\> set to 192.168.200.10, \<IP subnet of NonGW nodes\> set to 192.168.150.0/24 and \<interface to reach the GW\> set to eth0<br>
 >*route add -host \<IP of GW node\> dev \<interface to reach the GW\>*<br>
 >*route add -net \<IP subnet of NonGW nodes\>\/\<NonGW network mask\> dev <interface to reach the GW> gw \<IP of the GW node\>*
 ```
