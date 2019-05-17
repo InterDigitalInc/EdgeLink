@@ -20,7 +20,7 @@ Run a script to build, install ONOS, install the mesh controller apps, configure
 
 ## Mesh controller reachability 
 
-The mesh controller needs an IP address that could reach the mesh network (on the interface to reach the GW node). It is a prerequisite for the [Nodes reachability](#Nodes).
+The mesh controller needs an IP address that could reach the mesh network (on the interface to reach the GW node). It is a prerequisite for the [Nodes reachability](#Nodes). The mesh controller default IP address shall be set to 192.168.200.200.
 
 ## Nodes reachability 
 
